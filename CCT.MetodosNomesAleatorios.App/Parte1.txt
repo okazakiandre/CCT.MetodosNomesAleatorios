@@ -1,0 +1,9 @@
+﻿CCT - Métodos com nomes aleatórios
+===================================
+
+- Como esse conhecimento te ajuda?
+  - padronização do código
+  - código mais fluido (fácil de ler)
+  - mais clareza nos testes de unidade
+
+- Mostrar código

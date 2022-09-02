@@ -1,0 +1,15 @@
+﻿CCT - Métodos com nomes aleatórios
+===================================
+
+- Como esse conhecimento te ajuda?
+  - padronização do código
+  - código mais fluido (fácil de ler)
+  - mais clareza nos testes de unidade
+
+- Mostrar código
+
+- Por que é um problema?
+  - código difícil de entender
+  - métodos tendem a fazer coisas demais
+  - testes de unidade refletem a confusão
+

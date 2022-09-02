@@ -1,0 +1,29 @@
+﻿CCT - Métodos com nomes aleatórios
+===================================
+
+- Como esse conhecimento te ajuda?
+  - padronização do código
+  - código mais fluido (fácil de ler)
+  - mais clareza nos testes de unidade
+
+- Mostrar código
+
+- Por que é um problema?
+  - código difícil de entender
+  - métodos tendem a fazer coisas demais
+  - testes de unidade refletem a confusão
+
+- Como resolver
+  - use nomes que descrevem o que o método faz
+  - use verbos (indicam ação)
+  - evite termos genéricos isolados
+    - validar
+    - consultar
+    - verificar
+  - combine o nome com o tipo do retorno
+
+- Conclusão
+  - parece besta, mas faz uma grande diferença
+  - específico = simples e direto
+  - genérico = complexo e enrolado
+  - teste de unidade é um espelho
